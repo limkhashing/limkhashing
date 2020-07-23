@@ -15,7 +15,7 @@ Currently I am working as a Android Software Engineer at **[Fave Asia Sdn Bhd](h
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my tiny universe 😁
+Thank you so much for visiting my tiny space 😁
 
 | <img src="https://avatars0.githubusercontent.com/u/30791939" width="150px " height="150px">                                
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
