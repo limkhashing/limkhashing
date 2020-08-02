@@ -5,6 +5,10 @@
 
 I'm a Software Engineer from Malaysia who have experiences in developing native Android apps and building and deploying AI models, including dealing with large and complex datasets. 
 
-[![Lim Kha Shing Shahdeo's github stats](https://github-readme-stats.vercel.app/api?username=limkhashing&show_icons=true)](https://github.com/limkhashing/)
+<a href="https://github.com/limkhashing/">
+  <img src="https://github-readme-stats.vercel.app/api?username=limkhashing&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limkhashing&layout=compact" />
+</a>
+
 
 <sup>**[Click here](https://github.com/limkhashing/limkhashing/blob/master/ABOUT.md)** *to get to know more about me or check out my works below!.</sup>*
