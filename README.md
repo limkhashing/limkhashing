@@ -1,5 +1,5 @@
 ### Hello 👋
-[![Visits Badge](https://badges.pufler.dev/visits/limkhashing/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/limkhashing/limkhashing)](https://badges.pufler.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-limkhashing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lim-kha-shing/)](https://www.linkedin.com/in/lim-kha-shing/)
 [![Gmail Badge](https://img.shields.io/badge/-kslim5703@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kslim5703@gmail.com)](mailto:kslim5703@gmail.com)
 
