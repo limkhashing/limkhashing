@@ -1,6 +1,7 @@
 ### Hello :wave:
 
-I'm **Lim Kha Shing**, a Software Engineer who is highly driven and well-versed in RESTful and Cloud technologies.
+I'm **Lim Kha Shing**, a Software Engineer who has 3+ years experience in building native Android apps. I’m well-acquainted with Modern Android Development from Kotlin, Coroutines, DataStore to ViewModel architecture. I’m also comfortable with data-related tasks such as pre-processing and visualisation. Have experience in building a basic Machine Learning model from freelance projects.
+ 
 Currently I am working as a Android Software Engineer at **[Fave Asia Sdn Bhd](https://myfave.com/)**. You can find me on **LinkedIn**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@LimKhaShing&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/lim-kha-shing/)
