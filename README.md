@@ -7,6 +7,7 @@
 Hi! I'm Kha Shing, a software engineer who builds Android apps. I focus on modern Android development and learning machine learning on the side. 
 
 You can find more about me at https://limkhashing.github.io. Thanks! 😁
+
 <a href="https://github.com/limkhashing/">
   <img src="https://github-readme-stats.vercel.app/api?username=limkhashing&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limkhashing&layout=compact" />
