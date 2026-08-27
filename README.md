@@ -7,9 +7,3 @@
 Hi! I'm Kha Shing, have experience in end-to-end engineering across mobile/frontend development, backend systems, and cloud infrastructure. I’m highly comfortable leading engineering initiatives, mentoring teammates, and owning features end-to-end, from technical design to cloud deployment.
 
 You can find more about me at https://limkhashing.github.io, or check out my pinned repositories below. Thank you! 😁
-
-<a href="https://github.com/limkhashing/">
-  <img src="https://github-readme-stats.vercel.app/api?username=limkhashing&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limkhashing&layout=compact" />
-  <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" height="150">
-</a>
